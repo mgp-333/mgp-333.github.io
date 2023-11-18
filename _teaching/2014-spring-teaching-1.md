@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "CS 111 - Discrete Structures"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-Fall-teaching-1
