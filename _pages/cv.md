@@ -11,13 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. UCLA
+* Ph.D in Computer Science, University of California Riverside, 2026 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+* Summer 2022: Research Assistant
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
