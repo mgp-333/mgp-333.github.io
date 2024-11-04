@@ -1,6 +1,6 @@
 ---
 title: "Contrastive Learning on Graphs"
-excerpt: "I used contrastive learning on the CORA dataset to train a GraphCL model and evaluted it. I also used data augmentations like node dropping and edge perturbation. l 1<br/><img src='/images/trainingloss.png'>"
+excerpt: "I used contrastive learning on the CORA dataset to train a GraphCL model and evaluted it. I also used data augmentations like node dropping and edge perturbation. <br/><img src='/images/trainingloss.png'><br/><img src='/images/umap_node_visualization.png'>"
 collection: portfolio
 ---
 
