@@ -1,6 +1,6 @@
 ---
-title: "Contrastive Learning"
-excerpt: "I used a conformal prediction framework to traing a machine learning model 1<br/><img src='/images/500x300.png'>"
+title: "Contrastive Learning on Graphs"
+excerpt: "I used contrastive learning on the CORA dataset to train a GraphCL model and evaluted it. I also used data augmentations like node dropping and edge perturbation. l 1<br/><img src='/images/trainingloss.png'>"
 collection: portfolio
 ---
 
