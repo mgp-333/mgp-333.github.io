@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Miguel GP's Site!
+title                    : "Miguel GP's Site!"
 title_separator          : "-"
 name                     : &name "Miguel GP"
 description              : &description "PhD student at the University of California Riverside"
