@@ -19,14 +19,15 @@ I am a Phd Student in Computer Science at the University of California Riverside
 Portfolio Projects
 ------
 
-Conformal Prediction:
+### Conformal Prediction:
 Conformal Prediction is a useful framework for quantifying uncertainty ina distribution free method. I am interested in applying this framework to machine learning problems.
 
+### Contrastive Learning:
 
 
-Tensor Completion
+### Tensor Completion:
 
-Spatiotempoeral 
+### Spatiotempoeral: 
 
 
 
