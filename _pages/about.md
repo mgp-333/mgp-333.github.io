@@ -23,6 +23,7 @@ Portfolio Projects
 Conformal Prediction is a useful framework for quantifying uncertainty ina distribution free method. I am interested in applying this framework to machine learning problems.
 
 ### Contrastive Learning:
+Contrastive learning is . I am interested in applying contrastive learning techniques to different datasets and improving methodologies. 
 
 
 ### Tensor Completion:
